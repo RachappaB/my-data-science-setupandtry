@@ -1,6 +1,4 @@
-Here's an improved version of your `README` file that is more structured and clear:
 
----
 
 # My Data Science Environment Setup
 
@@ -97,6 +95,3 @@ These libraries cover a wide range of tasks from machine learning and deep learn
 - Make sure Docker is running before you execute the script.
 - If there are any issues with the setup or installation, refer to the Docker documentation or troubleshoot based on the error messages you receive.
 
----
-
-This `README` provides a detailed, structured guide for setting up the environment, making it clear for others or for yourself in the future.
